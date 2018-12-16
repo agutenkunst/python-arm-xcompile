@@ -10,7 +10,7 @@ SOURCE_DIRECTORY="Python-$PYTHON_VERSION"
 PYTHON_ARCHIVE="Python-$PYTHON_VERSION.tar.xz"
 ENABLE_MODULES="array cmath binascii _collections cPickle cStringIO datetime
 _elementtree fcntl _functools itertools _io math _md5 operator _random select
-_sha _socket _struct termios time unicodedata zlib"
+_sha _socket _struct termios time unicodedata"
 
 
 # Preparing compile environment
